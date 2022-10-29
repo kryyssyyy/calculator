@@ -32,7 +32,7 @@ body {
     height: 100px;
     border: none;
     border-radius: 20px;
-    box-shadow: 5px 5px 20px #878787;
+    box-shadow: inset 0px 0px 10px #878787;
 }
 
 button {
